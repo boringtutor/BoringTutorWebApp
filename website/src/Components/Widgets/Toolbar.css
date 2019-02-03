@@ -1,0 +1,38 @@
+ul{
+    padding:0;
+    list-style: none;
+}
+
+.navigation{
+    display: flex;
+}
+
+.box{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar{
+    height: 46px;
+    align-items: center;
+    padding: 0 10px;
+    margin-left:100px;
+    margin-right:100px;
+    border: 1px solid rgba(238, 238, 238, 1);
+    border-radius: 5px;
+    color: rgba(117, 117, 117, 1);
+    box-shadow: 5px 10px 20px -20px rgba(85, 172, 238, 1);
+}
+
+.navbar li{
+    cursor: pointer;
+    
+}
+
+.navbar li:hover {
+    color: rgba(85, 172, 238, 1);
+}
+
+.navbar li:not(:last-child) {
+    margin-right: 40px;
+}
