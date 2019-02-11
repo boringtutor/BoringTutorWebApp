@@ -4,7 +4,7 @@ import './Githubprojects.css';
 export default class GithubProjects extends Component{
     render(){
         return(
-            <div>github projects</div>
+            <div>GithubProjects is Comming Soon...</div>
         );
     }
 }

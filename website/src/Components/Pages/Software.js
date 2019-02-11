@@ -4,7 +4,7 @@ import './Software.css';
 export default class Software extends Component{
     render(){
         return(
-            <div>Software.....</div>
+            <div>Software Projects are Comming Soon.....</div>
         );
     }
 }
