@@ -9,11 +9,11 @@ export default class Footer extends Component{
                 <div className="fotter-content">
                     <h3 className="footer-heading">Follow the journey</h3>
                     <h3 className="footer-bottom">
-                        <SocialIcon className="footer-icon" url="http://twitter.com/jaketrent" />
-                        <SocialIcon className="footer-icon" url="http://facebook.com/jaketrent" />
-                        <SocialIcon className="footer-icon" url="http://instagram.com/jaketrent" />
-                        <SocialIcon className="footer-icon" url="http://youtube.com/jaketrent" />
-                        <SocialIcon className="footer-icon" url="http://github.com/jaketrent" />
+                        <SocialIcon className="footer-icon" url="https://twitter.com/awesome50414650" />
+                        <SocialIcon className="footer-icon" url="https://www.facebook.com/sarvinderjit.singh" />
+                        <SocialIcon className="footer-icon" url="https://www.instagram.com/savi896/?hl=en" />
+                        <SocialIcon className="footer-icon" url="http://youtube.com/" />
+                        <SocialIcon className="footer-icon" url="https://github.com/boringtutor" />
                     </h3>
                 </div>
             </div>

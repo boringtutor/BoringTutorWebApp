@@ -1,0 +1,33 @@
+
+
+.table{
+    display:flex;
+    flex-direction:column;
+    width:170vh;
+    text-align: center;
+
+}
+
+.headerContents{
+    color:#ffffff;
+    display:flex;
+    flex:1;
+    background-color:#000000;
+    padding-top:1%;
+    padding-bottom:1%;
+}
+.headertitles{
+    flex:1;
+}
+
+.Contents{
+    display:flex;
+    flex:1;
+    flex-direction:column;
+
+}
+.Content-item{
+    display:flex;
+    flex:1;
+    margin:1%;
+}
