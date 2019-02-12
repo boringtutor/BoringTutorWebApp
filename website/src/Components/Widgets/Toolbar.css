@@ -36,3 +36,8 @@ ul{
 .navbar li:not(:last-child) {
     margin-right: 40px;
 }
+
+.navigation-link{
+    text-decoration:none;
+    color: rgba(117, 117, 117, 1);
+}

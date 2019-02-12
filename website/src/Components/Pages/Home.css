@@ -1,0 +1,41 @@
+.HeaderInfo{
+    height:80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(swis.jpg);
+    justify-content: center;
+}
+
+.readMore{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin:10px;
+}
+
+.secondParagraph{
+    width:  240vh;
+    height:80vh;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(21,25,29,1);
+    color: rgba(255, 255, 255, 1);
+}
+
+.title{
+    margin-left:140px;
+    margin-right:340px;
+}
+.col1{
+
+
+}
+.col2{
+
+
+}
+.col3{
+
+
+}
