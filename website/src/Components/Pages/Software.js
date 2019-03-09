@@ -5,9 +5,30 @@ import Game from '../Widgets/GameOfFifteen';
 export default class Software extends Component{
     render(){
         return(
-            <div>
-                <h1>Welcome to the Game of Fifteen</h1>
-                <Game></Game>                
+            <div className="Container">
+                <header className="Header">
+                   <iframe src="http://www.youtube.com/embed/W7qWa52k-nE"
+                        className="video"  frameborder="0" autoplay="1" allowfullscreen></iframe>
+                </header>
+                <div className="tableContainer">
+                    <div className="heading">
+                        <h2>Games made with there github repos..</h2>
+                    </div>
+                    <div className="body">
+                        <div className="child"></div>
+                        <div className="child"></div>
+                        <div className="child"></div>
+                        <div className="child"></div>
+                        <div className="child"></div>
+                        <div className="child"></div>
+                        <div className="child"></div>
+                        <div className="child"></div>
+                        <div className="child"></div>
+                        <div className="child"></div>  
+                    </div>
+                </div>
+                
+
             </div>
         );
     }

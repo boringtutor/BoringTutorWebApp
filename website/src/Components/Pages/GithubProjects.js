@@ -34,6 +34,15 @@ export default class GithubProjects extends Component{
                             <li className="headertitles">1</li>
 
                         </ul>
+                        <ul className="Content-item">
+                            <li className="headertitles">Fractal Trees</li>
+                            <li className="headertitles">This shows the mathematical trees</li>
+                            <li className="headertitles">Javascript</li>
+                            <li className="headertitles">8 March 2019</li>
+                            <li className="headertitles">0</li>
+                            <li className="headertitles">1</li>
+
+                        </ul>
                         
                     </ul>
                 </div>

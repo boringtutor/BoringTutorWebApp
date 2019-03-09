@@ -5,7 +5,9 @@
     flex-direction:column;
     width:170vh;
     text-align: center;
-
+    border: 1px solid rgba(238, 238, 238, 1);
+    border-radius: 5px;
+    padding:1%;
 }
 
 .headerContents{
@@ -24,6 +26,7 @@
     display:flex;
     flex:1;
     flex-direction:column;
+    color: rgba(117, 117, 117, 1);
 
 }
 .Content-item{

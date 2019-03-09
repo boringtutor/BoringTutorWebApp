@@ -3,6 +3,8 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    color: rgba(117, 117, 117, 1);
+
 }
 .Canvas{
     flex:1;
