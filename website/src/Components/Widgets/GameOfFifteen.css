@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    width:400;
+    height:400;
+    stroke: black;
+    stroke-width: 1;
+    stroke-opacity: 0.9;
+}
+
+.game {
+    min-height: 100vh;
+}

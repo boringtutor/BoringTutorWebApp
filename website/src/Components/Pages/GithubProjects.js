@@ -17,96 +17,24 @@ export default class GithubProjects extends Component{
 
                     <ul className="Contents">
                         <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
+                            <li className="headertitles">Boring Tutor Web App</li>
+                            <li className="headertitles">Hello and welcome to the</li>
+                            <li className="headertitles">Java Script</li>
+                            <li className="headertitles">Feb 2 2019</li>
+                            <li className="headertitles">0</li>
+                            <li className="headertitles">1</li>
 
                         </ul>
                         <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
+                            <li className="headertitles">Game of fifteen</li>
+                            <li className="headertitles">This is the Puzzle Game</li>
+                            <li className="headertitles">Python</li>
+                            <li className="headertitles">27 February 2019</li>
+                            <li className="headertitles">0</li>
+                            <li className="headertitles">1</li>
 
                         </ul>
-                         <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
-
-                        </ul> <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
-
-                        </ul> <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
-
-                        </ul> <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
-
-                        </ul> <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
-
-                        </ul> <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
-
-                        </ul> <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
-
-                        </ul> <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
-
-                        </ul> <ul className="Content-item">
-                            <li className="headertitles">Title</li>
-                            <li className="headertitles">Description</li>
-                            <li className="headertitles">Language</li>
-                            <li className="headertitles">Created-at</li>
-                            <li className="headertitles">Forks</li>
-                            <li className="headertitles">Stars</li>
-
-                        </ul>
+                        
                     </ul>
                 </div>
 
