@@ -5,9 +5,21 @@ import Game from '../Widgets/GameOfFifteen';
 export default class Software extends Component{
     render(){
         return(
-            <div>
-                <h1>Welcome to the Game of Fifteen</h1>
-                <Game></Game>                
+            <div className="cont">
+                <div className="Viewer">
+                </div>
+                <div className="listOfGames">
+                    <div className="game"></div>
+                    <div className="game"></div>
+                    <div className="game"></div>
+                    <div className="game"></div>
+                    <div className="game"></div>
+                    <div className="game"></div>
+                    <div className="game"></div>
+                    <div className="game"></div>
+                    <div className="game"></div>
+
+                </div>
             </div>
         );
     }

@@ -1,0 +1,28 @@
+.cont{
+    display:flex;
+    flex-direction:column;
+}
+.Viewer{
+    min-width:210vh;
+    height:80vh;
+    padding: 0 10px;
+    margin:1%;
+    border: 1px solid rgba(238, 238, 238, 1);
+    border-radius: 5px;
+}
+.listOfGames{
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    padding:2%;
+}
+
+.game{
+    width:50vh;
+    height:100px;
+    margin:1%;
+    border: 1px solid rgba(238, 238, 238, 1);
+    border-radius: 5px;
+    box-shadow: 5px 10px 20px -20px rgba(85, 172, 238, 1);
+
+}
