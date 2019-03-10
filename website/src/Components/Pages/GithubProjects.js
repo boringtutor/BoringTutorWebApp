@@ -20,7 +20,7 @@ export default class GithubProjects extends Component{
                             <li className="headertitles">Boring Tutor Web App</li>
                             <li className="headertitles">Hello and welcome to the</li>
                             <li className="headertitles">Java Script</li>
-                            <li className="headertitles">Feb 2 2019</li>
+                            <li className="headertitles">2 February 2019</li>
                             <li className="headertitles">0</li>
                             <li className="headertitles">1</li>
 
@@ -34,7 +34,16 @@ export default class GithubProjects extends Component{
                             <li className="headertitles">1</li>
 
                         </ul>
-                        
+                        <ul className="Content-item">
+                            <li className="headertitles">Fractal Tree</li>
+                            <li className="headertitles">This is program that make fractal tree by recursion</li>
+                            <li className="headertitles">javascript</li>
+                            <li className="headertitles">9 March 2019</li>
+                            <li className="headertitles">0</li>
+                            <li className="headertitles">1</li>
+
+                        </ul>
+
                     </ul>
                 </div>
 
